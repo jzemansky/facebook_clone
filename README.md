@@ -1,3 +1,11 @@
+# This project is designed to emmulate the Facebook social media website.
+
+This project utilizes firebase to allow a running server and database to store posts and users.
+Through this, everyone can see the posts in order of which they were posted.
+
+Further functionality may be added to allow users to limit the content they view and leave comments on other's posts.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
