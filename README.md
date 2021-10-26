@@ -6,6 +6,9 @@ Through this, everyone can see the posts in order of which they were posted.
 Further functionality may be added to allow users to limit the content they view and leave comments on other's posts.
 
 
+![Facebook-Clone-Screenshot](https://user-images.githubusercontent.com/89819342/138940973-695c580c-7e70-452a-8a9e-32383636cac0.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
